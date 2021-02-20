@@ -1,0 +1,20 @@
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\bin\Debug\HesapMakinasi1.exe.config
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\bin\Debug\HesapMakinasi1.exe
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\bin\Debug\HesapMakinasi1.pdb
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.csprojAssemblyReference.cache
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.Form1.resources
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.Properties.Resources.resources
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.csproj.GenerateResource.cache
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.csproj.CoreCompileInputs.cache
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.exe
+C:\Users\resta\Desktop\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.pdb
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\bin\Debug\HesapMakinasi1.exe.config
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\bin\Debug\HesapMakinasi1.exe
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\bin\Debug\HesapMakinasi1.pdb
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.csprojAssemblyReference.cache
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.Form1.resources
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.Properties.Resources.resources
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.csproj.GenerateResource.cache
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.csproj.CoreCompileInputs.cache
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.exe
+C:\Users\resta\Desktop\c# Sharp çalışmaları\WindowsFormsGiris\HesapMakinasi1\obj\Debug\HesapMakinasi1.pdb
